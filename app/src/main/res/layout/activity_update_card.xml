@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Update Details"
-        android:textColor="@color/white"
+        android:textColor="#018ABD"
         android:textSize="36sp"
         android:gravity="center"
         android:fontFamily="sans-serif"/>
@@ -28,7 +28,7 @@
         android:padding="15dp"
         android:background="@drawable/custom_edittetext"
         android:textColorHint="#BFBBBB"
-        android:textColor="@color/white"
+        android:textColor="#0b698b"
         />
 
     <EditText
@@ -40,7 +40,7 @@
         android:padding="15dp"
         android:background="@drawable/custom_edittetext"
         android:textColorHint="#BFBBBB"
-        android:textColor="@color/white"
+        android:textColor="#0b698b"
         />
 
     <LinearLayout
@@ -63,7 +63,7 @@
             android:id="@+id/delete_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="#FF5722"
+            android:backgroundTint="#5791b3"
             android:text="Delete"/>
     </LinearLayout>
 
