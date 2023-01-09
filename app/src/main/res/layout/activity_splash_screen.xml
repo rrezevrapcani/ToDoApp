@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:text="To Do"
         android:layout_gravity="center_horizontal"
-        android:textColor="@color/white"
+        android:textColor="#004581"
         android:textSize="40sp"
         android:fontFamily="sans-serif"/>
     <TextView
